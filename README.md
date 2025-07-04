@@ -1,6 +1,6 @@
 # telegram-api-proxy
 
-proxy telegram bot api request
+Proxy telegram bot api request, 
 change the domain api.telegram.com in your URL to yourself domain (For example : tgapi.abc.com ).
 ## How to do
 1. Create cloudflare worker
